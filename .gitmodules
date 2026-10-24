@@ -1,0 +1,11 @@
+[submodule "lib/falso_jni"]
+	path = lib/falso_jni
+	url = https://github.com/v-atamanenko/FalsoJNI.git
+[submodule "lib/vitagl"]
+	path = lib/vitagl
+	url = https://github.com/Rinnegatamante/vitaGL
+	ignore = dirty
+[submodule "lib/vitashark"]
+	path = lib/vitashark
+	url = https://github.com/Rinnegatamante/vitaShaRK
+	ignore = dirty
